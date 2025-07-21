@@ -1,5 +1,5 @@
 pandoc: 3.1.11
-pkgdown: 2.1.2
+pkgdown: 2.1.3
 pkgdown_sha: ~
 articles:
   bsm: bsm.html
@@ -8,8 +8,9 @@ articles:
   regsplines: regsplines.html
   sts: sts.html
   sutse: sutse.html
+  tdairline: tdairline.html
   tdvar: tdvar.html
-last_built: 2025-05-12T08:09Z
+last_built: 2025-07-21T19:31Z
 urls:
   reference: https://rjdverse.github.io/rjd3sts/reference
   article: https://rjdverse.github.io/rjd3sts/articles
